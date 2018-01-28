@@ -1,0 +1,28 @@
+{
+  "name": "latihan-mean-ang2",
+  "version": "1.0.0",
+  "description": "latihan mean with angular 2 Mardi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MardiZoldyck/Latihan-MEAN-MARDI.git"
+  },
+  "keywords": [
+    "Latihan",
+    "MEAN",
+    "MARDI"
+  ],
+  "author": "Mardi Jumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MardiZoldyck/Latihan-MEAN-MARDI/issues"
+  },
+  "homepage": "https://github.com/MardiZoldyck/Latihan-MEAN-MARDI#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
